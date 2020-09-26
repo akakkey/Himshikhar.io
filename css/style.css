@@ -799,6 +799,12 @@ a.fb-message-blue:focus {
     transform: translate(-50%, -50%);
     text-align: center; }
 
+.media__img {
+  height: 40.0rem; }
+
+.media__img-box {
+  padding: .2rem; }
+
 .navigation__checkbox {
   display: none; }
 
